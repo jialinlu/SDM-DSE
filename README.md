@@ -19,4 +19,4 @@ This directory contains the code for the high-level topological synthesis method
 
 ## Please cite the following paper, if this repo is used in your work. 
 
-
+Jialin Lu, Yijie Li, Fan Yang, Li Shang and Xuan Zeng, High-Level Topology Synthesis Method for $\Delta$-$\Sigma$ Modulators via Bi-level Bayesian Optimization, Accepted by IEEE Transactions on Circuits and Systems: Part II, 2023.
