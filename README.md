@@ -15,7 +15,7 @@ This directory contains the code for the high-level topological synthesis method
 6. A high-level model of a sample modulator (adc_test.slx) is given under the case_study path, which can be opened by simulink for viewing and simulation.
 
 7. The high-level topology synthesis of delta-sigma modulator requires MATLAB and Simulink, MATLAB version 2017.b is recommended, in addition, SDToolbox2 toolbox needs to be installed for modulator modeling and simulation.
-    The toolbox can be found at https://www.mathworks.com/matlabcentral/fileexchange/25811-sdtoolbox-2/;
+    The toolbox can be found at https://www.mathworks.com/matlabcentral/fileexchange/25811-sdtoolbox-2/
 
 ## Please cite the following paper, if this repo is used in your work. 
 
