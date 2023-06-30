@@ -1,8 +1,8 @@
-## sdm_topo_dse
+## Design Space Exploration Algorithm for Delta-Sigma Modulators
 
-This directory contains the code for the proposed high-level topological synthesis method for delta-sigma modulators, which:
+This directory contains the code for the high-level topological synthesis method for delta-sigma modulators. Following the following steps to run the code:
 
-1. Before running the code, please make sure that the libraries "hebo" and "matlab.engine" are installed in the Python (recommended 3.6.13) environment, as well as other common scientific computing libraries;
+1. Before running the code, please make sure that the libraries "hebo" and "matlab.engine" are installed in Python (recommended 3.6.13) environment, as well as other common scientific computing libraries;
 
 2. Please replace 'user' in the kill_matlab.sh script with your own username before running;
 
@@ -16,4 +16,7 @@ This directory contains the code for the proposed high-level topological synthes
 
 7. The high-level topology synthesis of delta-sigma modulator requires MATLAB and Simulink, MATLAB version 2017.b is recommended, in addition, SDToolbox2 toolbox needs to be installed for modulator modeling and simulation.
     The toolbox can be found at https://www.mathworks.com/matlabcentral/fileexchange/25811-sdtoolbox-2/;
+
+## Please cite the following paper, if this repo is used in your work. 
+
 
