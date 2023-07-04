@@ -2,7 +2,7 @@
 
 This directory contains the code for the high-level topological synthesis method for delta-sigma modulators. Following the following steps to run the code:
 
-1. Before running the code, please make sure that the libraries "hebo" and "matlab.engine" are installed in Python (recommended 3.6.13) environment, as well as other common scientific computing libraries;
+1. Before running the code, please make sure that the libraries "hebo" and "matlab.engine" are installed in Python (recommended 3.6.13) environment, as well as other common scientific computing libraries. The environment configuration can be found in the environment.yml file located in the root of this repository.
 
 2. Please replace 'user' in the kill_matlab.sh script with your own username before running;
 
