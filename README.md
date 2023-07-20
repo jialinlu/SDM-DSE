@@ -23,4 +23,4 @@ The toolbox can be found at https://www.mathworks.com/matlabcentral/fileexchange
 ## Reference 
 Please cite the following paper, if this repo is used in your work. 
 
-Jialin Lu, Yijie Li, Fan Yang, Li Shang and Xuan Zeng, High-Level Topology Synthesis Method for $\Delta$-∑ Modulators via Bi-level Bayesian Optimization, Accepted by IEEE Transactions on Circuits and Systems: Part II, 2023.
+Jialin Lu, Yijie Li, Fan Yang, Li Shang and Xuan Zeng, High-Level Topology Synthesis Method for $\Delta$-∑ Modulators via Bi-level Bayesian Optimization, IEEE Transactions on Circuits and Systems: Part II, 2023. Early access: https://ieeexplore.ieee.org/document/10175068
